@@ -2,5 +2,10 @@
       "github": "https://github.com/fakeGitHib",
       "image": "https://logo.clearbit.com/sidesmedia.com",
       "website": "https://google.com/",
-      "alt": "Cool alt text"
+      "alt": "Cool alt text",
+      "links": {
+        "test1": "https://route4me.com/platform/route-optimization-software",
+        "test2": "https://route4me.com/platform/marketplace/pricing",
+        "test3": "https://route4me.com/contact"
+      }
     }

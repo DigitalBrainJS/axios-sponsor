@@ -4,6 +4,7 @@
       "website": "https://google.com/",
       "alt": "Cool alt text",
       "icon": "./assets/sponsors/route4me_icon.png",
+      "video": "https://www.youtube.com/embed/tgbNymZ7vqY",
       "links": {
         "test1": "https://route4me.com/platform/route-optimization-software",
         "test2": "https://route4me.com/platform/marketplace/pricing",

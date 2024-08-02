@@ -1,13 +1,15 @@
     {
       "github": "https://github.com/fakeGitHib",
-      "image": "https://logo.clearbit.com/sidesmedia.com",
+      "image": "https://static.wikia.nocookie.net/residentevil/images/d/d0/5423272533_52930a8827_z.jpg/revision/latest?cb=20120621223608",
+      "description": "The Umbrella Corporation is a pharmaceutical company that also deals with the development and sales of bio-weapons"  
       "website": "https://google.com/",
+      "displayName": "Umbrella Corporation",
       "alt": "Cool alt text",
-      "icon": "./assets/sponsors/route4me_icon.png",
-      "video": "https://www.youtube.com/embed/tgbNymZ7vqY",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Umbrella_Corporation_logo.svg/640px-Umbrella_Corporation_logo.svg.png",
+      "video": "https://www.youtube.com/embed/isosE4Bowh0",
       "links": {
-        "test1": "https://route4me.com/platform/route-optimization-software",
-        "test2": "https://route4me.com/platform/marketplace/pricing",
-        "test3": "https://route4me.com/contact"
+        "About": "https://google.com/",
+        "Vacancies": "https://google.com/",
+        "Contacts": "https://google.com/"
       }
     }

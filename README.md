@@ -1,43 +1,5 @@
-<h3 align="center"> 💎 Platinum sponsors <br> </h3> <table align="center"><tr><td align="center"> <a href="https://google.com/"> <img width="400px" src="http://127.0.0.1:8080/assets/sponsors/dummy1.png" alt="Umbrella Corporation"/> </a> <p align="center">The Umbrella Corporation is a pharmaceutical company that also deals with the development and sales of bio-weapons</p> <p align="center"> <a href="https://google.com/"><b>About</b></a> | <a href="https://google.com/"><b>Vacancies</b></a> | <a href="https://google.com/"><b>Contacts</b></a> </p> </td></tr></table><table align="center"><tr><td align="center"> <a href="https://google.com/"> <img width="400px" src="http://127.0.0.1:8080/assets/sponsors/dummy1.png" alt="Umbrella Corporation"/> </a> <p align="center">The Umbrella Corporation is a pharmaceutical company that also deals with the development and sales of bio-weapons</p> <p align="center"> <a href="https://google.com/"><b>About</b></a> | <a href="https://google.com/"><b>Vacancies</b></a> | <a href="https://google.com/"><b>Contacts</b></a> </p> </td></tr></table>
-<h3 align="center"> 🥇 Gold sponsors <br> </h3> <table align="center"><tr><td align="center"> <a href="https://google.com/"> <img width="300px" src="http://127.0.0.1:8080/assets/sponsors/dummy1.png" alt="Umbrella Corporation"/> </a> <p align="center">The Umbrella Corporation is a pharmaceutical company that also deals with the development and sales of bio-weapons</p> <p align="center"> <a href="https://google.com/"><b>About</b></a> | <a href="https://google.com/"><b>Vacancies</b></a> | <a href="https://google.com/"><b>Contacts</b></a> </p> </td><td align="center"> <a href="https://google.com/"> <img width="300px" src="http://127.0.0.1:8080/assets/sponsors/dummy1.png" alt="Umbrella Corporation"/> </a> <p align="center">The Umbrella Corporation is a pharmaceutical company that also deals with the development and sales of bio-weapons</p> <p align="center"> <a href="https://google.com/"><b>About</b></a> | <a href="https://google.com/"><b>Vacancies</b></a> | <a href="https://google.com/"><b>Contacts</b></a> </p> </td></tr></table>
-<br><br>
-</div>
-
-<h3 align="center">
-   Gold sponsors
-   <br><br>
-</h3>
-
-<table border="0">
-   <td align="center">
-     <a href="https://stytch.com?utm_source=oss-sponsorship&utm_medium=paid_sponsorship&utm_content=logo&utm_campaign=axios-http">
-       <picture>
-         <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://github.com/axios/axios/assets/4814473/538d715a-13c7-4668-ae7d-37a4548423f4">
-         <source width="200px" media="(prefers-color-scheme: light)" srcset="https://github.com/axios/axios/assets/4814473/b6a9a7bc-9fb1-4b9b-909f-1b4bee1fd142">
-         <img width="200px" src="https://github.com/axios/axios/assets/4814473/b6a9a7bc-9fb1-4b9b-909f-1b4bee1fd142" />
-       </picture>
-     </a>
-      <p align="center">API-first authentication, authorization, and fraud prevention</p>
-      <p align="center">
-          <a href="https://stytch.com?utm_source=oss-sponsorship&utm_medium=paid_sponsorship&utm_content=website-link&utm_campaign=axios-http"><b>Website</b></a> •
-          <a href="https://stytch.com/docs?utm_source=oss-sponsorship&utm_medium=paid_sponsorship&utm_content=docs-link&utm_campaign=axios-http"><b>Documentation</b></a> • <a href="https://github.com/stytchauth/stytch-node?utm_source=oss-sponsorship&utm_medium=paid_sponsorship&utm_content=node-sdk&utm_campaign=axios-http"><b>Node.js Backend SDK</b></a>
-      </p>
-   </td>
-   <td align="center">
-     <a href="https://stytch.com?utm_source=oss-sponsorship&utm_medium=paid_sponsorship&utm_content=logo&utm_campaign=axios-http">
-       <picture>
-         <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://github.com/axios/axios/assets/4814473/79f572f3-9d57-488d-80cc-58d674bb98d8">
-         <source width="200px" media="(prefers-color-scheme: light)" srcset="https://github.com/axios/axios/assets/4814473/18b51893-c4b4-4557-b263-74c2b3de84ab">
-         <img width="200px" src="https://github.com/axios/axios/assets/4814473/18b51893-c4b4-4557-b263-74c2b3de84ab" />
-       </picture>
-     </a>
-      <p align="center">Drag-and-drop authentication, authorization, and identity management</p>
-      <p align="center">
-          <a href="https://www.descope.com/?utm_source=axios&utm_medium=referral&utm_campaign=axios-oss-sponsorship"><b>Website</b></a> •
-          <a href="https://docs.descope.com/?utm_source=axios&utm_medium=referral&utm_campaign=axios-oss-sponsorship"><b>Documentation</b></a> • <a href="https://www.descope.com/community?utm_source=axios&utm_medium=referral&utm_campaign=axios-oss-sponsorship"><b>Community</b></a>
-      </p>
-   </td>
-</table>
+<h3 align="center"> 💎 Platinum sponsors <br> </h3> <table align="center"><tr><td align="center"> <a href="https://route4me.com/"> <picture> <source width="300px" media="(prefers-color-scheme: dark)" srcset="/assets/sponsors/route4me_white.png"> <source width="300px" media="(prefers-color-scheme: light)" srcset="http://127.0.0.1:8080/assets/sponsors/route4me.png"> <img width="300px" src="http://127.0.0.1:8080/assets/sponsors/route4me.png" alt="Route4Me"/> </picture> </a> <p align="center">Best Route Planning And Route Optimization Software</p> <p align="center"> <a href="https://route4me.com/platform/route-optimization-software"><b>Explore</b></a> | <a href="https://route4me.com/platform/marketplace/pricing"><b>Free Trial</b></a> | <a href="https://route4me.com/contact"><b>Contact</b></a> </p> </td></tr></table>
+<h3 align="center"> 🥇 Gold sponsors <br> </h3> <table align="center"><tr><td align="center"> <a href="https://route4me.com/"> <picture> <source width="200px" media="(prefers-color-scheme: dark)" srcset="/assets/sponsors/route4me_white.png"> <source width="200px" media="(prefers-color-scheme: light)" srcset="http://127.0.0.1:8080/assets/sponsors/route4me.png"> <img width="200px" src="http://127.0.0.1:8080/assets/sponsors/route4me.png" alt="Route4Me"/> </picture> </a> <p align="center">Best Route Planning And Route Optimization Software</p> <p align="center"> <a href="https://route4me.com/platform/route-optimization-software"><b>Explore</b></a> | <a href="https://route4me.com/platform/marketplace/pricing"><b>Free Trial</b></a> | <a href="https://route4me.com/contact"><b>Contact</b></a> </p> </td><td align="center"> <a href="https://route4me.com/"> <picture> <source width="200px" media="(prefers-color-scheme: dark)" srcset="/assets/sponsors/route4me_white.png"> <source width="200px" media="(prefers-color-scheme: light)" srcset="http://127.0.0.1:8080/assets/sponsors/route4me.png"> <img width="200px" src="http://127.0.0.1:8080/assets/sponsors/route4me.png" alt="Route4Me"/> </picture> </a> <p align="center">Best Route Planning And Route Optimization Software</p> <p align="center"> <a href="https://route4me.com/platform/route-optimization-software"><b>Explore</b></a> | <a href="https://route4me.com/platform/marketplace/pricing"><b>Free Trial</b></a> | <a href="https://route4me.com/contact"><b>Contact</b></a> </p> </td><td align="center"> <a href="https://route4me.com/"> <picture> <source width="200px" media="(prefers-color-scheme: dark)" srcset="/assets/sponsors/route4me_white.png"> <source width="200px" media="(prefers-color-scheme: light)" srcset="http://127.0.0.1:8080/assets/sponsors/route4me.png"> <img width="200px" src="http://127.0.0.1:8080/assets/sponsors/route4me.png" alt="Route4Me"/> </picture> </a> <p align="center">Best Route Planning And Route Optimization Software</p> <p align="center"> <a href="https://route4me.com/platform/route-optimization-software"><b>Explore</b></a> | <a href="https://route4me.com/platform/marketplace/pricing"><b>Free Trial</b></a> | <a href="https://route4me.com/contact"><b>Contact</b></a> </p> </td></tr><tr><td align="center"> <a href="https://route4me.com/"> <picture> <source width="200px" media="(prefers-color-scheme: dark)" srcset="/assets/sponsors/route4me_white.png"> <source width="200px" media="(prefers-color-scheme: light)" srcset="http://127.0.0.1:8080/assets/sponsors/route4me.png"> <img width="200px" src="http://127.0.0.1:8080/assets/sponsors/route4me.png" alt="Route4Me"/> </picture> </a> <p align="center">Best Route Planning And Route Optimization Software</p> <p align="center"> <a href="https://route4me.com/platform/route-optimization-software"><b>Explore</b></a> | <a href="https://route4me.com/platform/marketplace/pricing"><b>Free Trial</b></a> | <a href="https://route4me.com/contact"><b>Contact</b></a> </p> </td></tr></table>
      
 
 <br><br>

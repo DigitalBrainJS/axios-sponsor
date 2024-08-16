@@ -1,0 +1,32 @@
+# workflow triggers
+name: Update Sponsors
+on:
+  push:
+    branches: [ source ]
+  pull_request:
+    branches: [ source ]
+  workflow_dispatch:
+
+  # Allows external webhook trigger
+  repository_dispatch:
+    types:
+      - webhook
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: git config
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          registry-url: https://registry.npmjs.org/
+      ############# TAG RELEASE ##############
+      - name: Update Readme.md
+        run: echo "Web hook test"
